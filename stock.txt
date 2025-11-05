@@ -1,0 +1,12 @@
+ID	Name	Price	Quantity
+------------------------------
+101	rice	100	10
+102	wheat	100	10
+103	oil	50	5
+104	milk	30	5
+106	teapowder	20	6
+107	cookies	100	10
+108	butter	100	3
+109	breda	20	5
+110	cheese	100	5
+105	eggs	30	5
